@@ -1,0 +1,7 @@
+.snakemake
+.idea
+.Rproj.user
+.Rhistory
+resources
+results
+notebooks
